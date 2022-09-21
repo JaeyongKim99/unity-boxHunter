@@ -66,3 +66,7 @@ TPS 게임의 기본요소인 맵과 플레이어, 몬스터로 구성
 **플레이어가 데미지를 입을 때마다 노란색으로 피격효과가 발생하게 했습니다.**  
 ![적 사망효과](https://user-images.githubusercontent.com/111633448/191530576-0326db72-ffa7-42be-b4b9-7f376897915c.png)  
 **몬스터의 HP가 0보다 아래로 내려가면 회색으로 변경되게 했습니다.**  
+
+참고
+---
+[골드메탈 에셋](https://assetstore.unity.com/packages/3d/characters/quarter-view-3d-action-assets-pack-188720#description).
